@@ -1,22 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-emmanuel-lima-da-silva-b34350276/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor._.lima013)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/victoremmanuel8/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/victoremmanuel8/snk/output/github-contribution-grid-snake.svg"/>
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/victoremmanuel8/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
-
-
 ### Tecnologias que utilizo no meu cotidiano:
 <div style="display: inline_block"><br/>
   <img align="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
