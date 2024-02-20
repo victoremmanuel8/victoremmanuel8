@@ -1,8 +1,8 @@
 
 
-[![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-henrique-64261b272/](https://www.linkedin.com/in/victor-emmanuel-lima-da-silva-b34350276/))
+[![Linkedin]((https://www.linkedin.com/in/victor-emmanuel-lima-da-silva-b34350276/))
 
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kirito_dr4gon/](https://www.instagram.com/victor._.lima013))
+[![Instagram]((https://www.instagram.com/victor._.lima013))
 
 <picture>
   <source
