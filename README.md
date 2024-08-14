@@ -1,6 +1,6 @@
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-emmanuel-lima-da-silva-b34350276/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_lima_013)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAF0)](https://www.linkedin.com/in/victor-emmanuel-lima-da-silva-b34350276/)
+[![Instagram](https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=61DAF0)](https://www.instagram.com/victor_lima_013)
 
 ### Tecnologias que uso ou já utilizei:
 <div style="display: inline_block"><br/>
