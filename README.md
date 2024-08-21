@@ -14,5 +14,6 @@
   <img align="center" alt= "Cordova" src="https://img.shields.io/badge/Cordova-20232A?style=for-the-badge&logo=apache-cordova&logoColor=61DAF0"/><br><br>
   <img alt= "ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt= "Vite" src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=61DAF0"/>
+  <img alt= "NextJS" src="https://img.shields.io/badge/Next.js-20232A?&style=for-the-badge&logo=next.js&logoColor=61DAF0"/>
 </div><br>
 
