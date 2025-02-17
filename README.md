@@ -10,8 +10,8 @@
   <img align="center" alt= "c#" src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=61DAF0"/>
   <img align="center" alt= "php" src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=61DAF0"/>
   <img align="center" alt= "MySql" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=61DAF0"/>
-  <img alt= "ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt= "Vite" src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=61DAF0"/>
-  <img alt= "NextJS" src="https://img.shields.io/badge/Next.js-20232A?&style=for-the-badge&logo=next.js&logoColor=61DAF0"/>
+  <img align="center" alt= "ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt= "Vite" src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=61DAF0"/>
+  <img align="center" alt= "NextJS" src="https://img.shields.io/badge/Next.js-20232A?&style=for-the-badge&logo=next.js&logoColor=61DAF0"/>
 </div><br>
 
